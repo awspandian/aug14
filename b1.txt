@@ -4,3 +4,5 @@ git stash demo
 git log
 
 git log --oneline
+
+git revert
