@@ -1,2 +1,6 @@
 linst 3nrd commit
 git stash demo
+
+git log
+
+git log --oneline
