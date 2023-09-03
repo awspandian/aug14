@@ -1,0 +1,5 @@
+---
+- name: install tomcat
+  become: yes
+  roles: 
+    - tomcat
